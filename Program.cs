@@ -12,20 +12,6 @@ if (zn =="+")
     Sum = A + B;
 }
 
-if (zn == "-")
-{
-    Sum = A - B;
-}
-
-if (zn == "*")
-{
-    Sum = A * B;
-}
-
-if (zn == "/")
-{
-    Sum = A / B;
-}
 
 Console.Write("Ответ: ");
 Console.Write(Sum);
