@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\call\bin\Debug\net6.0\call.exe
+C:\Users\student\Desktop\call\bin\Debug\net6.0\call.deps.json
+C:\Users\student\Desktop\call\bin\Debug\net6.0\call.runtimeconfig.json
+C:\Users\student\Desktop\call\bin\Debug\net6.0\call.dll
+C:\Users\student\Desktop\call\bin\Debug\net6.0\call.pdb
+C:\Users\student\Desktop\call\obj\Debug\net6.0\call.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\call\obj\Debug\net6.0\call.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\call\obj\Debug\net6.0\call.AssemblyInfo.cs
+C:\Users\student\Desktop\call\obj\Debug\net6.0\call.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\call\obj\Debug\net6.0\call.dll
+C:\Users\student\Desktop\call\obj\Debug\net6.0\refint\call.dll
+C:\Users\student\Desktop\call\obj\Debug\net6.0\call.pdb
+C:\Users\student\Desktop\call\obj\Debug\net6.0\call.genruntimeconfig.cache
+C:\Users\student\Desktop\call\obj\Debug\net6.0\ref\call.dll
