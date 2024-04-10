@@ -7,21 +7,6 @@ string zn = Console.ReadLine();
 
 int Sum = 0;
 
-if (zn =="+")
-{
-    Sum = A + B;
-}
-
-if (zn == "-")
-{
-    Sum = A - B;
-}
-
-if (zn == "*")
-{
-    Sum = A * B;
-}
-
 if (zn == "/")
 {
     Sum = A / B;
